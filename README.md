@@ -34,3 +34,16 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Documentation
+- [Installing Git Flow](https://github.com/petervanderdoes/gitflow-avh/wiki/Installation)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Commit Lint](https://commitlint.js.org/#/guides-local-setup)
+- [Commitizen](https://github.com/commitizen/cz-cli)
+- [Component Library - shadcn UI](https://ui.shadcn.com/docs)
+- [Clerk Authentication](https://clerk.com/docs/quickstarts/nextjs?_gl=1*1fsuros*_gcl_au*MTMwNDA2NjU5OC4xNzA2MzM1NzY1*_ga*NTAyNjk4MDUyLjE3MDYzMzU3NjU.*_ga_1WMF5X234K*MTcwNjMzNTc2NS4xLjEuMTcwNjMzNTg2Ny4wLjAuMA..)
+- [Planet Scale DB Platform](https://planetscale.com/)
+
+## License
+
+© 2024 Matheus Henrique Santos da Silva
