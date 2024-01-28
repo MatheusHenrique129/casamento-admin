@@ -42,6 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [Commitizen](https://github.com/commitizen/cz-cli)
 - [Component Library - shadcn UI](https://ui.shadcn.com/docs)
 - [Clerk Authentication](https://clerk.com/docs/quickstarts/nextjs?_gl=1*1fsuros*_gcl_au*MTMwNDA2NjU5OC4xNzA2MzM1NzY1*_ga*NTAyNjk4MDUyLjE3MDYzMzU3NjU.*_ga_1WMF5X234K*MTcwNjMzNTc2NS4xLjEuMTcwNjMzNTg2Ny4wLjAuMA..)
+- [Planet Scale DB Platform](https://planetscale.com/)
 
 ## License
 
